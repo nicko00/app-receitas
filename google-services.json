@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745131982332",
+    "project_id": "app-receitas-e6071",
+    "storage_bucket": "app-receitas-e6071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745131982332:android:0b4169c3c0f3a2fff7c679",
+        "android_client_info": {
+          "package_name": "com.example.jerakitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745131982332-97e2pakndhkaqpm4njffsvc7vut68uf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuZ8t1uvL58urofpNUqwCoozhtM69M6eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745131982332-97e2pakndhkaqpm4njffsvc7vut68uf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
